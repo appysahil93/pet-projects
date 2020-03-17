@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 16 13:18:36 2020
-
-@author: 691928
-"""
 
 #python program to get text extracted from a Image
 
